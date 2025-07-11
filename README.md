@@ -8,3 +8,6 @@ THIS SCRIPT IS WORK FOR ESX ITS NO REASON ZONE
 about:this script is for fiveM when players joins the red zone its name NRZ the player can kill others without any reasons
 
 Discord : https://discord.gg/YTgeWCS7Kj
+
+# installation
+open your fivem resources and put the file to it after restart your fivem server
